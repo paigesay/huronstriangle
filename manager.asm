@@ -1,9 +1,9 @@
-; Program name: "Huron’s Triangles". A short description of the purpose of the program
+; Program name: "Huron’s Triangles". Sends prompts to user.
 ; Copyright (C) 2025  Paige Saychareun
 
-; This file is part of the software program "Program Name".
+; This file is part of the software program "Huron's Triangle".
 
-; "Program Name" is free software: you can redistribute it and/or modify
+; "Huron's Triangle" is free software: you can redistribute it and/or modify
 ; it under the terms of the GNU General Public License as published by
 ; the Free Software Foundation, either version 3 of the License, or
 ; (at your option) any later version.
@@ -20,7 +20,7 @@
 ;   Author name : Paige Saychareun
 ;   Author email: psaychareun@csu.fullerton.edu
 ;   Author section: 240-9
-;   Author CWID :
+;   Author CWID : 884902354
 
 extern printf
 extern scanf
