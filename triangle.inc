@@ -1,14 +1,14 @@
 ; Program name: "Huron’s Triangles". Contains macros and shared defs. for the Huron's Triangles.
 ; Copyright (C) 2025  Paige Saychareun
 
-; This file is part of the software program "Program Name".
+; This file is part of the software program "Huron’s Triangles".
 
-; "Program Name" is free software: you can redistribute it and/or modify
+; "Huron’s Triangles" is free software: you can redistribute it and/or modify
 ; it under the terms of the GNU General Public License as published by
 ; the Free Software Foundation, either version 3 of the License, or
 ; (at your option) any later version.
 
-; "Program Name" is distributed in the hope that it will be useful,
+; "Huron’s Triangles" is distributed in the hope that it will be useful,
 ; but WITHOUT ANY WARRANTY; without even the implied warranty of
 ; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 ; GNU General Public License for more details.
@@ -20,7 +20,7 @@
 ;   Author name : Paige Saychareun
 ;   Author email: psaychareun@csu.fullerton.edu
 ;   Author section: 240-9
-;   Author CWID :
+;   Author CWID : 884902354
 
 %macro backup_gprs 0
     push rbp        ; saves old base pointer
@@ -91,5 +91,5 @@
 section .data
 contact_msg_1 db "This program is brought to you as a courtesy of", 10, 0
 contact_msg_2 db "Author: Paige Saychareun", 10, 0
-contact_msg_3 db "Cwid: ", 10, 0
+contact_msg_3 db "Cwid: 884902354", 10, 0
 contact_msg_4 db "Email: psaychareun@csu.fullerton.edu", 10, 0
