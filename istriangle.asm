@@ -1,7 +1,7 @@
 ; Program name: "Huron’s Triangles". Determines if the provided sides form a triangle.
 ; Copyright (C) 2025  Paige Saychareun
 
-; This file is part of the software program "Program Name".
+; This file is part of the software program "Huron's Triangle".
 
 ; "Program Name" is free software: you can redistribute it and/or modify
 ; it under the terms of the GNU General Public License as published by
